@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "IPC_HAWC2_64", "IPC_HAWC2_64.vfproj", "{BCD6DF0C-8DE2-4569-B653-61E0C8CDCA36}"
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "IPC_HAWC2", "IPC_HAWC2.vfproj", "{BCD6DF0C-8DE2-4569-B653-61E0C8CDCA36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
